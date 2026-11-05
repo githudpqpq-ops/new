@@ -1,7 +1,7 @@
 name: First Workflow
 on: [push]
 
-jods:
+jobs:
   run-firts-command:
     runs-on: ubuntu-latest 
     steps:
